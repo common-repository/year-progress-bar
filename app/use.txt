@@ -1,0 +1,3 @@
+<?php 
+if (function_exists (YPBP_year_progress_show)) YPBP_year_progress_show(); 
+?>
